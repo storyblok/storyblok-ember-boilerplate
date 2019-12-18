@@ -1,0 +1,7 @@
+<div class="application">
+  <Navbar />
+
+  {{#each this.model.content.body as |blok|}}
+    {{component blok.component blok=blok}}
+  {{/each}}
+</div>
