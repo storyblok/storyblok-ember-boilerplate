@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository is no longer maintained.
+
 # storyblok-ember-boilerplate
 
 This README outlines the details of collaborating on this Ember application.
